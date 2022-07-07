@@ -1,9 +1,9 @@
 {
   "version": "0.1.0",
-  "name": "@kamaal111/classNames",
+  "name": "@kamaal111/classname",
   "author": "Kamaal Farah <kamaal111>",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@kamaal111:registry": "https://npm.pkg.github.com/"
   },
   "repository": "git://github.com/kamaal111/classNames.git",
   "license": "MIT",
