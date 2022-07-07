@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "name": "@kamaal111/classNames",
+  "name": "@kamaal111/classname",
   "author": "Kamaal Farah <kamaal111>",
   "publishConfig": {
     "@kamaal111:registry": "https://npm.pkg.github.com/"
