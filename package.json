@@ -1,5 +1,11 @@
 {
   "version": "0.1.0",
+  "name": "@kamaal111/classNames",
+  "author": "Kamaal Farah <kamaal111>",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": "git://github.com/kamaal111/classNames.git",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -31,8 +37,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "classnames",
-  "author": "Kamaal",
   "module": "dist/classnames.esm.js",
   "size-limit": [
     {
