@@ -42,6 +42,10 @@ jobs:
         with:
           node-version: 14.x
 
+      - name: match-tag-to-package-version
+        id: match-tag-to-package-version
+        uses: geritol/match-tag-to-package-version@0.2.0
+
       - name: Install deps and build (with cache)
         uses: bahmutov/npm-install@v1
 
